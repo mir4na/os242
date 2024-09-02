@@ -15,3 +15,5 @@ ZCZC W00 4 L07 Pop Quiz related
 ZCZC W00 15 L03 Read document (OS related)
 ZCZC W00 90 L08 Coding...
 ZCZC W00 55 L05 Volunteer/Organization related
+ZCZC W01 35 L05 Volunteer/Organization related
+ZCZC W01 5 L01 SCELE/Discord related
