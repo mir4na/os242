@@ -20,3 +20,4 @@ ZCZC W01 5 L01 SCELE/Discord related
 
 ZCZC W01 65 SCELE/Discord related
 ZCZC W01 120 L03 OS related (Setup Debian until ssh key)
+ZCZC W01 25 L03 OS related (read "The ATM Way"; Quiz preparation)
