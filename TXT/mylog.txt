@@ -19,8 +19,11 @@ ZCZC W01 35 L05 Volunteer/Organization related
 ZCZC W01 5 L01 SCELE/Discord related
 
 ZCZC W01 65 SCELE/Discord related
-ZCZC W01 120 L03 OS related (Setup Debian until ssh key)
-ZCZC W01 25 L03 OS related (read "The ATM Way"; Quiz preparation)
+ZCZC W01 120 L03 OS related (Set up Debian)
+ZCZC W01 25 L03 OS related (read "The ATM Way")
+ZCZC W01 25 L03 OS related (read slides week 01; Quiz preparation)
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 45 L08 Coding...
 ZCZC W01 8 L03 OS related (Pop Quiz Week 1)
+ZCZC W01 15 L01 SCELE/Discord related
+ZCZC W01 30 L03 OS related (Set up github, ssh)
