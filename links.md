@@ -6,7 +6,7 @@ permalink: LINKS/
 
 # **LINKS** --- Updated: 07 Sep 2024
 
-Week 0 & Week 1
+#### Week 0 & Week 1
 
 * [Operating Systems](https://os.vlsm.org/)
   --- This site contains materials from the Operating Systems course, including weekly assignments that need to be completed each week, reference repositories from senior students from previous years, guidelines on how to contact professors, and more.
@@ -20,3 +20,5 @@ Week 0 & Week 1
   --- This site contains a variety of Linux commands that can be utilized to enhance your understanding and performance in the Operating Systems course.
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   --- This site provides a quick reference guide for using Markdown, a lightweight markup language commonly used for formatting text on the web. These sites offer examples of how to write and style text, including headings, lists, links, images, code blocks, and more. They are useful for learning or quickly recalling Markdown syntax when writing documentation, blogs, or GitHub README files.
+<br>
+<hr>
