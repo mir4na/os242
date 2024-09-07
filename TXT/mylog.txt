@@ -18,7 +18,6 @@ ZCZC W00 90 L08 Coding...
 ZCZC W00 55 L05 Volunteer/Organization related
 ZCZC W01 35 L05 Volunteer/Organization related
 ZCZC W01 5 L01 SCELE/Discord related
-
 ZCZC W01 65 SCELE/Discord related
 ZCZC W01 99 L03 OS related (Set up Debian)
 ZCZC W01 21 L03 OS related (Set up Debian)
