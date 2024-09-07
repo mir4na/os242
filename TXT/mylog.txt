@@ -8,7 +8,8 @@ ZCZC W00 15 L03 Read document (OS related)
 ZCZC W00 25 L01 SCELE/Discord related
 ZCZC W00 40 L03 Read document (OS related)
 ZCZC W00 38 L04 Data Structure & Algorithm related
-ZCZC W00 125 L05 Volunteer/Organization related
+ZCZC W00 99 L05 Volunteer/Organization related
+ZCZC W00 26 L05 Volunteer/Organization related
 ZCZC W00 25 L03 Read document (OS related)
 ZCZC W00 18 L06 Resolve bug
 ZCZC W00 4 L07 Pop Quiz related
@@ -19,7 +20,8 @@ ZCZC W01 35 L05 Volunteer/Organization related
 ZCZC W01 5 L01 SCELE/Discord related
 
 ZCZC W01 65 SCELE/Discord related
-ZCZC W01 120 L03 OS related (Set up Debian)
+ZCZC W01 99 L03 OS related (Set up Debian)
+ZCZC W01 21 L03 OS related (Set up Debian)
 ZCZC W01 25 L03 OS related (read "The ATM Way")
 ZCZC W01 25 L03 OS related (read slides week 01; Quiz preparation)
 ZCZC W01 20 L01 SCELE/Discord related
@@ -27,3 +29,7 @@ ZCZC W01 45 L08 Coding...
 ZCZC W01 8 L03 OS related (Pop Quiz Week 1)
 ZCZC W01 15 L01 SCELE/Discord related
 ZCZC W01 30 L03 OS related (Set up github, ssh)
+ZCZC W01 70 L03 OS related (Create and set up myupdate.txt, index.md, links.md)
+ZCZC W01 50 L02 Linear Algebra related
+ZCZC W01 99 L03 OS related (read week 01 slides)
+ZCZC W01 26 L03 OS related (read week 01 slides)
