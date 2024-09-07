@@ -6,6 +6,8 @@ permalink: LINKS/
 
 # **LINKS** --- Updated: 07 Sep 2024
 
+Week 0 & Week 1
+
 * [Operating Systems](https://os.vlsm.org/)
   --- This site contains materials from the Operating Systems course, including weekly assignments that need to be completed each week, reference repositories from senior students from previous years, guidelines on how to contact professors, and more.
 * [Basic Operating System](https://www.youtube.com/watch?v=VjPgYcQqqN0&t=113s)
