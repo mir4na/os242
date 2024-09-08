@@ -21,7 +21,11 @@ ZCZC W01 5 L01 SCELE/Discord related
 ZCZC W01 65 SCELE/Discord related
 ZCZC W01 99 L03 OS related (Set up Debian)
 ZCZC W01 21 L03 OS related (Set up Debian)
+ZCZC W01 90 L03 OS related (OS Class)
+ZCZC W01 10 L03 OS related (OS Class)
 ZCZC W01 25 L03 OS related (read "The ATM Way")
+ZCZC W01 90 L03 OS related (OS Class)
+ZCZC W01 10 L03 OS related (OS Class)
 ZCZC W01 25 L03 OS related (read slides week 01; Quiz preparation)
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 45 L08 Coding...
