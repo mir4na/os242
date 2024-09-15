@@ -36,3 +36,19 @@ ZCZC W01 70 L03 OS related (Create and set up myupdate.txt, index.md, links.md)
 ZCZC W01 50 L02 Linear Algebra related
 ZCZC W01 99 L03 OS related (read week 01 slides)
 ZCZC W01 26 L03 OS related (read week 01 slides)
+ZCZC W02 90 L03 OS related (OS class)
+ZCZC W02 90 L03 OS related (OS class)
+ZCZC W02 20 L03 OS related (OS class)
+ZCZC W02 95 L03 OS related (Setup gnupg)
+ZCZC W02 80 L03 OS related (Backup ssh and gpg keys + also doing script assignment)
+ZCZC W02 30 L01 SCELE/Discord related
+ZCZC W02 80 L03 OS related (Watch introduction to RSA and AES encryption)
+ZCZC W02 45 L03 OS related (read week 02 slides)
+ZCZC W02 10 L03 OS related (PopQuiz 02)
+ZCZC W02 20 L01 SCELE/Discord related
+ZCZC W02 50 L03 OS related (Finishing weekly assignment)
+ZCZC W02 40 L03 OS related (Review PopQuiz 02)
+ZCZC W02 70 L03 OS related (read week 02 slides)
+ZCZC W02 90 L03 OS related (try resolve a problem; VirtualBox related)
+ZCZC W02 25 L01 SCELE/Discord related
+ZCZC W02 80 L03 OS related (Learn about kernel also hypervisor)
