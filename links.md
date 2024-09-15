@@ -4,7 +4,7 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# **LINKS** --- Updated: 07 Sep 2024
+# **LINKS** --- Updated: 15 Sep 2024
 
 #### Week 0 & Week 1
 
@@ -20,5 +20,15 @@ permalink: LINKS/
   --- This site contains a variety of Linux commands that can be utilized to enhance your understanding and performance in the Operating Systems course.
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   --- This site provides a quick reference guide for using Markdown, a lightweight markup language commonly used for formatting text on the web. These sites offer examples of how to write and style text, including headings, lists, links, images, code blocks, and more. They are useful for learning or quickly recalling Markdown syntax when writing documentation, blogs, or GitHub README files.
+
+
+#### Week 2
+
+* [Public and Private Keys](https://youtu.be/_zyKvPvh808?si=dRcLckgnnXT3QB0R)
+  --- A simple explanation about public key and private key. These keys can be used to perform Encryption and Message Signing. Encryption provides Confidentiality, and Message Signatures provides Integrity and Authentication.
+* [Symmetric Encryption vs Asymmetric Encryption](https://youtu.be/o_g-M7UBqI8?si=76Y3t4--6PR6etjz)
+  --- There are two strategies for Encryption: Symmetric Encryption vs Asymmetric Encryption. In this video, the creator discuss each of their strengths and weaknesses, and provide a simple illustration of them both.
+* [Introduction to Advanced Encryption Standard (AES)](https://youtu.be/3MPkc-PFSRI?si=381C14HmI1D9k9BU)
+  --- The video provides an introduction to the Advanced Encryption Standard (AES), explaining its structure and key components. It highlights the differences between the Data Encryption Standard (DES) and AES, focusing on aspects such as operation modes, the number of rounds, and key scheduling processes. Additionally, the video introduces the various transformations used in AES and discusses the parameters of AES, emphasizing the relationship between key size and the number of rounds required for encryption. This provides a foundational understanding of how AES operates compared to older encryption methods like DES.
 <br>
 <hr>
