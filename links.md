@@ -36,6 +36,8 @@ permalink: LINKS/
 * [How To Enlarge / Increase a Virtual Machine’s Disk Size in VirtualBox - Windows](https://youtu.be/n1YOlMlU-dg?si=_OKHjiUgcDm1bTzb)
   --- In this Video We are going to see How To Enlarge / Increase  a Virtual Machine’s Disk Size in VirtualBox.  It's Works on any Windows Operating System by the Simplest Way.
 * [How to guarantee a safe environment for testing malware in VirtualBox](https://youtu.be/RuHhX-JqnKg?si=DtI66KbimemNB30E)
-  --- This video contains a tutorial for setting up a safer testing ground in VirtualBox for when you go running computer viruses. Most viruses shouldn't cause problems anyway to the host anyway, but this tutorial is for those ones that may try to "break out"
+  --- This video contains a tutorial for setting up a safer testing ground in VirtualBox for when you go running computer viruses. Most viruses shouldn't cause problems anyway to the host anyway, but this tutorial is for those ones that may try to "break out".
+* [Passthrough Mounting A Physical Disk Drive in VirtualBox](https://youtu.be/t9L_gH0b5zw?si=0n7UZ7KQbrnj-38G)
+  --- This video provides a method that allows a VM to directly interact with a physical disk drive. The tutorial likely guides through configuring VirtualBox to access a physical disk instead of using a virtual disk, which can be useful in specific situations like testing, diagnostics, or dual-boot setups.
 <br>
 <hr>
