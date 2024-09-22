@@ -4,7 +4,7 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# **LINKS** --- Updated: 15 Sep 2024
+# **LINKS** --- Updated: 22 Sep 2024
 
 #### Week 0 & Week 1
 
@@ -30,5 +30,12 @@ permalink: LINKS/
   --- There are two strategies for Encryption: Symmetric Encryption vs Asymmetric Encryption. In this video, the creator discuss each of their strengths and weaknesses, and provide a simple illustration of them both.
 * [Introduction to Advanced Encryption Standard (AES)](https://youtu.be/3MPkc-PFSRI?si=381C14HmI1D9k9BU)
   --- The video provides an introduction to the Advanced Encryption Standard (AES), explaining its structure and key components. It highlights the differences between the Data Encryption Standard (DES) and AES, focusing on aspects such as operation modes, the number of rounds, and key scheduling processes. Additionally, the video introduces the various transformations used in AES and discusses the parameters of AES, emphasizing the relationship between key size and the number of rounds required for encryption. This provides a foundational understanding of how AES operates compared to older encryption methods like DES.
+
+#### Week 3
+
+* [How To Enlarge / Increase a Virtual Machine’s Disk Size in VirtualBox - Windows](https://youtu.be/n1YOlMlU-dg?si=_OKHjiUgcDm1bTzb)
+  --- In this Video We are going to see How To Enlarge / Increase  a Virtual Machine’s Disk Size in VirtualBox.  It's Works on any Windows Operating System by the Simplest Way.
+* [How to guarantee a safe environment for testing malware in VirtualBox](https://youtu.be/RuHhX-JqnKg?si=DtI66KbimemNB30E)
+  --- This video contains a tutorial for setting up a safer testing ground in VirtualBox for when you go running computer viruses. Most viruses shouldn't cause problems anyway to the host anyway, but this tutorial is for those ones that may try to "break out"
 <br>
 <hr>
