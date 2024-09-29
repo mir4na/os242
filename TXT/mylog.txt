@@ -64,3 +64,19 @@ ZCZC W03 20 L03 OS related (Pop Quiz)
 ZCZC W03 90 L03 OS related (Review pop quiz)
 ZCZC W03 45 L03 OS related (Updating links.md)
 ZCZC W03 95 L03 OS related (Checking OS in scele forum)
+ZCZC W04 70 L03 OS related (read week 04 slide)
+ZCZC W04 90 L03 OS related (try resolve some problem)
+ZCZC W04 25 L01 SCELE/Discord related
+ZCZC W04 80 L03 OS related (Learn about OS vulnerability)
+ZCZC W04 90 L03 OS related
+ZCZC W04 80 L03 OS related (Compilling)
+ZCZC W04 95 L03 OS related (Doing assignment script)
+ZCZC W04 70 L03 OS related (Finishing)
+ZCZC W04 70 L10 Relax/Sleep
+ZCZC W04 20 L02 Structure Data and Algorithm related
+ZCZC W04 90 L03 OS related (read week 04 slide)
+ZCZC W04 90 L03 OS related (OS Class)
+ZCZC W04 90 L03 OS related (OS Class)
+ZCZC W04 20 L03 OS related (OS Class)
+ZCZC W04 40 L03 OS related (Review PopQuiz 03)
+ZCZC W04 50 L03 OS related (Finishing weekly assignment)
