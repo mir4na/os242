@@ -4,7 +4,7 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# **LINKS** --- Updated: 22 Sep 2024
+# **LINKS** --- Updated: 29 Sep 2024
 
 #### Week 0 & Week 1
 
@@ -39,5 +39,14 @@ permalink: LINKS/
   --- This video contains a tutorial for setting up a safer testing ground in VirtualBox for when you go running computer viruses. Most viruses shouldn't cause problems anyway to the host anyway, but this tutorial is for those ones that may try to "break out".
 * [Passthrough Mounting A Physical Disk Drive in VirtualBox](https://youtu.be/t9L_gH0b5zw?si=0n7UZ7KQbrnj-38G)
   --- This video provides a method that allows a VM to directly interact with a physical disk drive. The tutorial likely guides through configuring VirtualBox to access a physical disk instead of using a virtual disk, which can be useful in specific situations like testing, diagnostics, or dual-boot setups.
+<br>
+<hr>
+
+#### Week 4
+
+* [Linux got wrecked by backdoor attack](https://youtu.be/bS9em7Bg0iU?si=4vFUtfDfyJopcY-_)
+  --- A popular compression library called XZ Utils was recently backdoored by a hacker which compromised Linux distros like Debian, OpenSUSE, Fedora, and Kali. Learn how the liblzma hack happened who is behind it. 
+* [https://youtu.be/Oh9D8KVjMcA?si=70hVUehSUnnUANHj](https://youtu.be/Oh9D8KVjMcA?si=ZcAawkdqWwGTI6cu)
+  --- A (unfortunate) news..
 <br>
 <hr>
