@@ -46,7 +46,7 @@ permalink: LINKS/
 
 * [Linux got wrecked by backdoor attack](https://youtu.be/bS9em7Bg0iU?si=4vFUtfDfyJopcY-_)
   --- A popular compression library called XZ Utils was recently backdoored by a hacker which compromised Linux distros like Debian, OpenSUSE, Fedora, and Kali. Learn how the liblzma hack happened who is behind it. 
-* [https://youtu.be/Oh9D8KVjMcA?si=70hVUehSUnnUANHj](https://youtu.be/Oh9D8KVjMcA?si=ZcAawkdqWwGTI6cu)
+* [CUPS Vulnerability, Tails OS + Tor, Ubuntu 24.10, COSMIC Alpha 2 & more Linux news](https://youtu.be/Oh9D8KVjMcA?si=ZcAawkdqWwGTI6cu)
   --- A (unfortunate) news..
 <br>
 <hr>
