@@ -80,3 +80,19 @@ ZCZC W04 90 L03 OS related (OS Class)
 ZCZC W04 20 L03 OS related (OS Class)
 ZCZC W04 40 L03 OS related (Review PopQuiz 03)
 ZCZC W04 50 L03 OS related (Finishing weekly assignment)
+ZCZC W05 90 L03 OS related (OS Class)
+ZCZC W05 90 L03 OS related (OS Class)
+ZCZC W05 20 L03 OS related (OS Class)
+ZCZC W05 70 L03 OS related (Doing assignment)
+ZCZC W05 90 L03 OS related (try resolve some problem)
+ZCZC W05 25 L01 SCELE/Discord related
+ZCZC W05 80 L03 OS related (How Low Can You Go?)
+ZCZC W05 90 L03 OS related (Doing assignment script
+ZCZC W05 80 L03 OS related (Read W05 slide)
+ZCZC W05 95 L03 OS related (Doing assignment script)
+ZCZC W05 70 L03 OS related (Finishing)
+ZCZC W05 60 L10 Relax/Sleep
+ZCZC W05 20 L12 Doing database assignment
+ZCZC W05 90 L03 OS related (learn some memory stuff)
+ZCZC W05 40 L03 OS related (Review PopQuiz 04)
+ZCZC W05 50 L03 OS related (Finishing weekly assignment)
