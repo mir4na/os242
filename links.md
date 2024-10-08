@@ -4,7 +4,7 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# **LINKS** --- Updated: 29 Sep 2024
+# **LINKS** --- Updated: 08 Oct 2024
 
 #### Week 0 & Week 1
 
@@ -20,7 +20,6 @@ permalink: LINKS/
   --- This site contains a variety of Linux commands that can be utilized to enhance your understanding and performance in the Operating Systems course.
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   --- This site provides a quick reference guide for using Markdown, a lightweight markup language commonly used for formatting text on the web. These sites offer examples of how to write and style text, including headings, lists, links, images, code blocks, and more. They are useful for learning or quickly recalling Markdown syntax when writing documentation, blogs, or GitHub README files.
-
 
 #### Week 2
 
@@ -39,8 +38,6 @@ permalink: LINKS/
   --- This video contains a tutorial for setting up a safer testing ground in VirtualBox for when you go running computer viruses. Most viruses shouldn't cause problems anyway to the host anyway, but this tutorial is for those ones that may try to "break out".
 * [Passthrough Mounting A Physical Disk Drive in VirtualBox](https://youtu.be/t9L_gH0b5zw?si=0n7UZ7KQbrnj-38G)
   --- This video provides a method that allows a VM to directly interact with a physical disk drive. The tutorial likely guides through configuring VirtualBox to access a physical disk instead of using a virtual disk, which can be useful in specific situations like testing, diagnostics, or dual-boot setups.
-<br>
-<hr>
 
 #### Week 4
 
@@ -48,5 +45,12 @@ permalink: LINKS/
   --- A popular compression library called XZ Utils was recently backdoored by a hacker which compromised Linux distros like Debian, OpenSUSE, Fedora, and Kali. Learn how the liblzma hack happened who is behind it. 
 * [CUPS Vulnerability, Tails OS + Tor, Ubuntu 24.10, COSMIC Alpha 2 & more Linux news](https://youtu.be/Oh9D8KVjMcA?si=ZcAawkdqWwGTI6cu)
   --- A (unfortunate) news..
+
+#### Week 5
+
+* [The Linux Kernel: What it is, and how it works!](https://youtu.be/JDfo2Lc7iLU?si=NyHWly3Vt9zai9kx)
+  --- In this video, the creator goes over a simple explanation of what computer kernels are and how they work, alonside what makes the Linux kernel any special.
+* [Linux Internals: Memory Management](https://youtu.be/FcZ5A-K2JUo?si=XQG0Z1uTILFwZFUr)
+  --- An exploration about Memory Management in Linux (and a few other examples from old out of data Operating Systems).
 <br>
 <hr>
