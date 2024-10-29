@@ -4,7 +4,7 @@ permalink: LINKS/
 
 ## [HOME](../)
 
-# **LINKS** --- Updated: 08 Oct 2024
+# **LINKS** --- Updated: 29 Oct 2024
 
 #### Week 0 & Week 1
 
@@ -49,8 +49,15 @@ permalink: LINKS/
 #### Week 5
 
 * [The Linux Kernel: What it is, and how it works!](https://youtu.be/JDfo2Lc7iLU?si=NyHWly3Vt9zai9kx)
-  --- In this video, the creator goes over a simple explanation of what computer kernels are and how they work, alonside what makes the Linux kernel any special.
+  --- Topics discussed: 1) Dynamic memory allocation using malloc() function. 2) The use of void pointer in dynamic memory allocation using malloc(). 3) Programming example malloc function.
 * [Linux Internals: Memory Management](https://youtu.be/FcZ5A-K2JUo?si=XQG0Z1uTILFwZFUr)
   --- An exploration about Memory Management in Linux (and a few other examples from old out of data Operating Systems).
+
+#### Week 6
+
+* [Dynamic Memory Allocation using malloc()](https://youtu.be/Vch7_YeGKH4?si=Q9HpdLa-pfjHByw6)
+  --- In this video, the creator goes over a simple explanation of what computer kernels are and how they work, alonside what makes the Linux kernel any special.
+* [Deploy Docusaurus 2 on GitHub pages - publishing it for free](https://youtu.be/NiHFqziyvyk?si=IWeYeph909Qe0P42)
+  --- How to deploy your Docusaurus 2 documentation website on GitHub pages in few simple steps for free.
 <br>
 <hr>
