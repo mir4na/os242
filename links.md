@@ -59,5 +59,14 @@ permalink: LINKS/
   --- In this video, the creator goes over a simple explanation of what computer kernels are and how they work, alonside what makes the Linux kernel any special.
 * [Deploy Docusaurus 2 on GitHub pages - publishing it for free](https://youtu.be/NiHFqziyvyk?si=IWeYeph909Qe0P42)
   --- How to deploy your Docusaurus 2 documentation website on GitHub pages in few simple steps for free.
+
+#### Week 7
+
+* [L-3.1: Process Synchronization | Process Types | Race Condition | Operating System-1](https://youtu.be/3Eaw1SSIqRg?si=uj_DJ7WvjudONrNF)
+  --- Processes Synchronization is the way by which processes that share the same memory space are managed in an operating system. It helps maintain the consistency of data by using variables or hardware so that only one process can make changes to the shared memory at a time. 
+* [Quick explanation: Critical section. Critical section problem](https://youtu.be/BSX1YEoCVgA?si=BiHKiEairAOLEz6N)
+  --- Quick explanation of what critical section is. Definition of the critical section problem and properties of a good solution
+* [Creating pages, styling, layout and static assets. Part 3 - Docusaurus Course](https://youtu.be/-XHeXiKRnhs?si=zcck-rfV7FsDqHy1)
+  --- How to edit the landing page in Docusaurus, add new pages using either Markdown or React, styling and personalizing a website, add new images and favicon.
 <br>
 <hr>
