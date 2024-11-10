@@ -130,3 +130,20 @@ ZCZC W07 20 L12 Doing Database assignment
 ZCZC W07 90 L03 OS related Synchronization
 ZCZC W07 40 L03 OS related (Review)
 ZCZC W07 50 L03 OS related (Finishing weekly assignment)
+ZCZC W08 90 L03 OS related (OS Class)
+ZCZC W08 90 L03 OS related (OS Class)
+ZCZC W08 20 L03 OS related Pop Quiz
+ZCZC W08 70 L03 OS related (Doing assignment)
+ZCZC W08 30 L03 OS related (Read LFS Docummentation)
+ZCZC W08 90 L03 OS related (try resolve some problem)
+ZCZC W08 25 L01 SCELE/Discord related
+ZCZC W08 80 L03 OS related (Watch Kernotex)
+ZCZC W08 90 L03 OS related (Doing assignment script)
+ZCZC W08 80 L03 OS related (Read W08 slide)
+ZCZC W08 95 L03 OS related (Setup LFS Environment)
+ZCZC W08 70 L03 OS related (Finishing)
+ZCZC W08 60 L10 Relax/Sleep
+ZCZC W08 20 L12 Doing Structure Data and Algorithm assignment
+ZCZC W08 90 L03 OS related (Installing Binutils, GCC, etc)
+ZCZC W08 40 L03 OS related (Review)
+ZCZC W08 50 L03 OS related (Finishing weekly assignment)
