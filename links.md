@@ -68,5 +68,19 @@ permalink: LINKS/
   --- Quick explanation of what critical section is. Definition of the critical section problem and properties of a good solution
 * [Creating pages, styling, layout and static assets. Part 3 - Docusaurus Course](https://youtu.be/-XHeXiKRnhs?si=zcck-rfV7FsDqHy1)
   --- How to edit the landing page in Docusaurus, add new pages using either Markdown or React, styling and personalizing a website, add new images and favicon.
+
+#### Week 8
+
+* [6. Chapter 5: Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial](https://youtu.be/vMdPHpPiy4Q?si=FoZIeM2yoCYQ6Sui)
+  --- This video demonstrate how to install LFS 12.2 on real hardware with an empty disk. If you've never built Linux From Scratch before, don't worry as I go through the LFS book chapter-by-chapter. From disk configuration, fetching sources and compiling, right through to configuring and booting the final operating system, it's all recorded in these videos.
+* [How to work with GCC | Compilation process and GCC | Compilation and Linking](https://youtu.be/Qn-PrsAKcco?si=_nnTPgvXCKkFNCFX)
+  --- This video explain about:
+1. How to preprocess a source file in GCC?
+2. How to convert the High-Level Source file into Assembly code?
+3. How to compile Assembly Code to Object code?
+4. How to link in GCC?
+5. GCC command to accomplish all of the above stages?
+* [Binutils for fun and profit: understanding Linux binaries](https://youtu.be/htepUJY8nH8?si=ZJkdHyDQcPagAhoS)
+  --- Binutils is a collection of programs for creating, modifying and inspecting binaries. This talk demonstrates how a few simple programs can be of great use in understanding how Linux binaries are put together, what they do, and how to debug them when something goes wrong.
 <br>
 <hr>
